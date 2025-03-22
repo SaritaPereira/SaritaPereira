@@ -2,7 +2,6 @@
   <img src="/img/logo.png" alt="Logo" width="150">
 </p>
 
-
 # 👋 Olá! Meu nome é Sarita Pereira.
 
 ## Sobre mim  
@@ -30,8 +29,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar%C4%B1ta-pereira-5808a82b3/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sariitapereiira)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaritaPereira)
-🔗 **[Meu Portfólio](https://saritapereira.github.io/)**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaritaPereira)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saritapereira.github.io/)  
 
 ---
 
@@ -42,6 +41,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaritaPereira&layout=compact&theme=dracula"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaritaPereira&color=blueviolet&style=flat)
+---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaritaPereira&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
